@@ -4,6 +4,8 @@ papp_cloud: 云桌面应用.
 papp_cloud上有一个用户名: huanggang08@163.com
 这个用户名有一个密码: Dylan----,这个密码也是用ssh来登陆远程服务器的密码.
 
+网页版的云桌面的地址: https://cloud.paratera.com
+如果忘记了密码，在这里面可以去找密码。
 
 在利用ssh登陆远程服务器之前，需要您先登录papp_cloud。比如，
 
